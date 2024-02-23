@@ -1,0 +1,175 @@
+export const reviews = [
+	{
+		src: "./img/_01.jpg",
+		id: "img_1",
+		type: "img",
+		target: "active",
+	},
+	{
+		src: "./img/0014.jpg",
+		id: "img_0014",
+		type: "img",
+		target: "",
+	},
+
+	{
+		src: "./img/_010.jpg",
+		id: "img_10",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_011.jpg",
+		id: "img_11",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/img_slider_11.png",
+		srs_video: "./video/VID_20240211_234139_892.mp4.mov",
+		id: "video_1",
+		type: "video",
+		target: "",
+	},
+	{
+		src: "./img/_09.jpg",
+		id: "img_9",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_07.jpg",
+		id: "img_7",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_08.jpg",
+		id: "img_8",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_04.jpg",
+		id: "img_4",
+		type: "img",
+		target: "",
+	},
+
+	{
+		src: "./img/_06.jpg",
+		id: "img_6",
+		type: "img",
+		target: "",
+	},
+
+	{
+		src: "./img/_013.jpg",
+		id: "img_13",
+		type: "img",
+		target: "",
+	},
+
+	{
+		src: "./img/_015.jpg",
+		id: "img_15",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_016.jpg",
+		id: "img_16",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_017.jpg",
+		id: "img_17",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_019.jpg",
+		id: "img_19",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_020.jpg",
+		id: "img_20",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_021.jpg",
+		id: "img_21",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_022.jpg",
+		id: "img_22",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_023.jpg",
+		id: "img_23",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_025.jpg",
+		id: "img_25",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_026.jpg",
+		id: "img_26",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_30.jpg",
+		id: "img_30",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_31.jpg",
+		id: "img_31",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_32.jpg",
+		id: "img_32",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_33.jpg",
+		id: "img_33",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_34.jpg",
+		id: "img_34",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_36.jpg",
+		id: "img_36",
+		type: "img",
+		target: "",
+	},
+	{
+		src: "./img/_37.jpg",
+		id: "img_37",
+		type: "img",
+		target: "",
+	},
+];
